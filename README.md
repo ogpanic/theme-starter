@@ -16,6 +16,7 @@ OGPANIC_TOKEN=AabE@G-13
 Run the following command to start developing your own template.
 
 ```bash
+$ npm install
 # npx ogaas develop --help, for more infomation
 $ npm run develop
 ```
