@@ -19,6 +19,6 @@
   "author": "Rakuraku Jyo <jyo@ogpanic.com>",
   "license": "MIT",
   "dependencies": {
-    "ogaas-cli": "^2.0.6"
+    "ogaas-cli": "^2.0.8"
   }
 }
