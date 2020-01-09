@@ -1,5 +1,5 @@
 {
-  "name": "ogpanic-theme-starter-ja",
+  "name": "ogpanic-theme-starter",
   "version": "1.0.0",
   "description": "An starter of an OGPanic template",
   "scripts": {
@@ -9,9 +9,13 @@
     "deploy": "ogaas deploy dist/"
   },
   "repository": {
-    "url": "https://github.com/ogpanic/theme-starter-ja"
+    "url": "https://github.com/ogpanic/theme-starter"
   },
-  "keywords": ["ogpanic", "open graph protocol", "ogimage"],
+  "keywords": [
+    "ogpanic",
+    "open graph protocol",
+    "ogimage"
+  ],
   "author": "Rakuraku Jyo <jyo@ogpanic.com>",
   "license": "MIT",
   "dependencies": {
