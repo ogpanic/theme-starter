@@ -1,6 +1,6 @@
 # OGPanic Starter
 
-This project is a basic starter for creating templates for OGPanic. OGPanic, is a web service for generating beautiful and eye-catching og-images. As OGPanic uses headless chrome to render the images, there's basically no limits for what you can put inside the image. You can use web fonts, add beatiful gradients, and other fancy visuals effects that can be implemented by modern CSS and Javascript.
+OGPanic is a web service for generating beautiful and eye-catching og-images. As OGPanic uses headless chrome to render the images, there's basically no limits for what you can put inside the image. You can use web fonts, add beatiful gradients, and other fancy visuals effects that can be implemented by modern CSS and Javascript.
 
 ## Developing the template
 
