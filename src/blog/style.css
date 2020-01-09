@@ -1,0 +1,59 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: lighter;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;
+  margin: 0;
+}
+
+img.emoji {
+  height: 1em;
+  width: 1em;
+  margin: 0 .05em 0 .1em;
+  vertical-align: -0.1em;
+}
+
+.cover {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: linear-gradient(
+    0deg,
+    rgba(131, 58, 180, 1) 0%,
+    rgba(253, 29, 29, 1) 50%,
+    rgba(252, 176, 69, 1) 100%
+  );
+  opacity: 0.5;
+}
+
+.container {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  max-width: 95vh;
+  width: 95vh;
+}
+
+h1 {
+  text-align: center;
+  font-size: 24px;
+  font-weight: lighter;
+  margin: 0;
+  margin-bottom: 15px;
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 16px;
+}
+
+.logo img {
+  height: 30px;
+  margin-right: 10px;
+}

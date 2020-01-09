@@ -1,0 +1,20 @@
+{
+  "name": "ogpanic-theme-starter-ja",
+  "version": "1.0.0",
+  "description": "An starter of an OGPanic template",
+  "scripts": {
+    "clean": "rm -rf .ogaas-cache/ .cache/ dist/",
+    "develop": "ogaas develop src -u",
+    "build": "rm -rf dist/ && ogaas build src",
+    "deploy": "ogaas deploy dist/"
+  },
+  "repository": {
+    "url": "https://github.com/ogpanic/theme-starter-ja"
+  },
+  "keywords": ["ogpanic", "open graph protocol", "ogimage"],
+  "author": "Rakuraku Jyo <jyo@ogpanic.com>",
+  "license": "MIT",
+  "dependencies": {
+    "ogaas-cli": "^2.0.3"
+  }
+}
