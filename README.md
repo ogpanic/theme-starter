@@ -22,6 +22,7 @@ $ npm run develop
 
 The template editor can be found at `http://localhost:3000/editor` to preview your og-image.
 
+![Template Editor](https://github.com/ogpanic/theme-starter/blob/master/editor.png?raw=true)
 
 ### Source code structure
 
