@@ -17,6 +17,7 @@ OGPANIC_TOKEN=AabE@G-13
 次のコマンドを叩けば、テンプレート開発のUIを立ち上げます。ブラウザで`http://localhost:3000/editor`からアクセスできます。
 
 ```bash
+$ npm install
 # npx ogaas develop --help, for more infomation
 $ npm run develop
 ```
